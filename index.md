@@ -13,7 +13,6 @@
 		
     </p>
 
-
 <h2>ABOUT ME</h2>
 I am a PhD candidate in <a href="http://www.ee.cityu.edu.hk/home/">Department of Electronic Engineering</a>, <a href="http://www.cityu.edu.hk/">City University of Hong Kong</a>. My supervisor is <a href="http://www.ee.cityu.edu.hk/~syyuen/">Shiu Yin Yuen</a>.<br>
 
