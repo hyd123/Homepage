@@ -19,8 +19,8 @@ I was born and grew up in Chengdu, a beautiful city located in southwest China. 
 <h2>EDUCATION</h2>
 
 PhD candidate, <a href="http://www.ee.cityu.edu.hk/home/">Department of Electronic Engineering</a>, <a href="http://www.cityu.edu.hk/">City University of Hong Kong</a>, 2016-now.<br>
-MS, <a href="http://www.ece.rutgers.edu/">Department of Electrical and Computer Engineering</a>, <a href="https://www.rutgers.edu/">Rutgers University</a>, 2013-2015.<br>
-BS, School of Electronic Engineering, <a href="http://www.uestc.edu.cn/">University of Electronic Science and Technology of China</a>, 2010-2014.<br>
+MS, <a href="http://www.ece.rutgers.edu/">Department of Electrical and Computer Engineering</a>, <a href="https://www.rutgers.edu/">Rutgers University</a>, 2015.<br>
+BS, School of Electronic Engineering, <a href="http://www.uestc.edu.cn/">University of Electronic Science and Technology of China</a>, 2014.<br>
 
 
 <h2>RESEARCH</h2>
