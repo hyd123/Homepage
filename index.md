@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
@@ -12,7 +11,7 @@
 		<font size="4" face="Georgia, serif"><b>E-mail:</b><br>yaodonghe2-c@my.cityu.edu.hk</font><br><br>
 		<font size="4" face="Georgia, serif"><b>Address:</b><br>FYW building 2386, City University of Hong Kong</font>
     </p>
-<img src="http://i4.bvimg.com/655336/e9880725ab3e049e.jpg" alt="hi" class="inline"/>
+<img src="http://i4.bvimg.com/655336/e9880725ab3e049e.jpg" alt="hi" width="304" height="228" hspace="500" vspace="20"/>
 
 <h2>ABOUT ME</h2>
 I am a PhD candidate in <a href="http://www.ee.cityu.edu.hk/home/">Department of Electronic Engineering</a>, <a href="http://www.cityu.edu.hk/">City University of Hong Kong</a>. My supervisor is <a href="http://www.ee.cityu.edu.hk/~syyuen/">Shiu Yin Yuen</a>.<br>
