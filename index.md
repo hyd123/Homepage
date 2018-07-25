@@ -2,11 +2,12 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Yaodong He| City University of Hong Kong</title>
+<title>Yaodong He's Home Page</title>
 </head>
 <body>
     <p>
-       <img src="http://i4.bvimg.com/655336/e9880725ab3e049e.jpg" alt="hi" width="228" height="304" style="float:left"/> <font size="6" face="Georgia, serif">Yaodong (Donn) He<br></font><br><br>
+        <font size="6" face="Georgia, serif">Yaodong (Donn) He<br></font><br><br>
+	    <img src="http://i4.bvimg.com/655336/e9880725ab3e049e.jpg" alt="hi" width="228" height="304" />
 		<font size="4" face="Georgia, serif"><b>E-mail:</b><br>yaodonghe2-c@my.cityu.edu.hk</font><br><br>
 		<font size="4" face="Georgia, serif"><b>Address:</b><br>FYW building 2386, City University of Hong Kong</font>
 		
