@@ -34,8 +34,8 @@ BS, School of Electronic Engineering, <a href="http://www.uestc.edu.cn/">Univers
 3. Yaodong He, <a href="http://www.ee.cityu.edu.hk/~syyuen/">Shiu Yin Yuen</a>, and <a href="http://www.ee.cityu.edu.hk/~ylou/">Yang Lou</a>, "A sequential algorithm portfolio approach for black box optimization", Accepted by <a href="https://www.journals.elsevier.com/swarm-and-evolutionary-computation">Swarm and Evolutionary Computation</a>.<br>
 
 <h2>TEACHING</h2>
-Foundations of Data Engineering, EE3001, teaching assistant, 2017/2018.<br>
-Data Structures and Algorithms, EE2331, teaching assistant, 2017/2018.<br>
-Foundations of Data Engineering, EE3001, teaching assistant, 2016/2017.<br>
 Digital Signal Processing, EE4015, teaching assistant, 2016/2017.<br>
+Foundations of Data Engineering, EE3001, teaching assistant, 2016/2017.<br>
+Data Structures and Algorithms, EE2331, teaching assistant, 2017/2018.<br>
+Foundations of Data Engineering, EE3001, teaching assistant, 2017/2018.<br>
 
