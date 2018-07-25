@@ -13,7 +13,7 @@
 <p>
 
 <h2>ABOUT ME</h2>
-I am a PhD candidate in <a href="http://www.ee.cityu.edu.hk/home/">Department of Electronic Engineering</a>, <a href="http://www.cityu.edu.hk/">City University of Hong Kong</a>. My supervisor is <a href="http://www.ee.cityu.edu.hk/~syyuen/">Shiu Yin Yuen</a>.<br>
+I am a PhD candidate in <a href="http://www.ee.cityu.edu.hk/home/">Department of Electronic Engineering</a>, <a href="http://www.cityu.edu.hk/">City University of Hong Kong</a>. My supervisor is <a href="http://www.ee.cityu.edu.hk/~syyuen/">Shiu Yin Yuen</a>. Before admitted by CityU, I worked and studied in the multimedia lab, <a href="https://www.rutgers.edu/">Rutgers University</a> with <a href="http://www.ece.rutgers.edu/~marsic/">Professor Ivan Marsic</a>.<br>
 I was born and grew up in Chengdu, a beautiful city located in southwest China. In my spare time, I enjoy playing computer games, watching comics and animes, playing basketball, and tasting delicacies.
 
 <h2>EDUCATION</h2>
