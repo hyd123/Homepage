@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Yaodong He| City University of Hong Kong</title>
+</head>
+<body>
 
-You can use the [editor on GitHub](https://github.com/hyd123/hyd.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<img src="http://i4.bvimg.com/655336/e9880725ab3e049e.jpg"/width="220" height="300"/style="position:absolute; left:500px; top:20px; ">
+<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <p>
+        <font size="6" face="Georgia, serif">Yaodong (Donn) He<br></font><br><br>
+		<font size="4" face="Georgia, serif"><b>E-mail:</b><br>yaodonghe2-c@my.cityu.edu.hk</font><br><br>
+		<font size="4" face="Georgia, serif"><b>Address:</b><br>FYW building 2386, City University of Hong Kong</font>
+    </p>
 
-### Markdown
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<h2>ABOUT ME</h2>
+I am a PhD candidate in <a href="http://www.ee.cityu.edu.hk/home/">Department of Electronic Engineering</a>, <a href="http://www.cityu.edu.hk/">City University of Hong Kong</a>. My supervisor is <a href="http://www.ee.cityu.edu.hk/~syyuen/">Shiu Yin Yuen</a>.<br>
 
-# Header 1
-## Header 2
-### Header 3
+<h2>EDUCATION</h2>
 
-- Bulleted
-- List
+PhD candidate, <a href="http://www.ee.cityu.edu.hk/home/">Department of Electronic Engineering</a>, <a href="http://www.cityu.edu.hk/">City University of Hong Kong</a>, 2016-now.<br>
+MS, <a href="http://www.ece.rutgers.edu/">Department of Electrical and Computer Engineering</a>, <a href="https://www.rutgers.edu/">Rutgers University</a>, 2013-2015.<br>
+BS, School of Electronic Engineering, <a href="http://www.uestc.edu.cn/">University of Electronic Science and Technology of China</a>, 2010-2014.<br>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+<h2>RESEARCH</h2>
+<h4>Research Interests</h4>
+ 
+<p>My research interests include algorithm selection, evolutionary computation (and its applications), computer vision and machine learning. </p>
 
-[Link](url) and ![Image](src)
-```
+<h4>Publications</h4>
+1. Yaodong He, <a href="http://www.ee.cityu.edu.hk/~syyuen/">Shiu Yin Yuen</a>, and <a href="http://www.ee.cityu.edu.hk/~ylou/">Yang Lou</a>, "A Bayesian Restarting Approach to Algorithm Selection", <a href="https://www.springer.com/gp/book/9783319687582"> In: Simulated Evolution and Learning</a>, (Proc. SEAL 2017), Shenzhen, pp.397–409 (2017).<br>
+2. Yaodong He, <a href="http://www.ee.cityu.edu.hk/~syyuen/">Shiu Yin Yuen</a>, and <a href="http://www.ee.cityu.edu.hk/~ylou/">Yang Lou</a>, "Exploratory Landscape Analysis Using Algorithm Based Sampling", In Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO '18), Kyoto, Japan (2018).<br>
+3. Yaodong He, <a href="http://www.ee.cityu.edu.hk/~syyuen/">Shiu Yin Yuen</a>, and <a href="http://www.ee.cityu.edu.hk/~ylou/">Yang Lou</a>, "A sequential algorithm portfolio approach for black box optimization", Accepted by <a href="https://www.journals.elsevier.com/swarm-and-evolutionary-computation">Swarm and Evolutionary Computation</a>.<br>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<h2>TEACHING</h2>
+Foundations of Data Engineering, EE3001, teaching assistant, 2017/2018.<br>
+Data Structures and Algorithms, EE2331, teaching assistant, 2017/2018.<br>
+Foundations of Data Engineering, EE3001, teaching assistant, 2016/2017.<br>
+Digital Signal Processing, EE4015, teaching assistant, 2016/2017.<br>
 
-### Jekyll Themes
+<br>
+<br>
+<br>
+<br>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hyd123/hyd.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ 
+</body>
+</html>
