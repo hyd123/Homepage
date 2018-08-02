@@ -5,7 +5,7 @@
 <title>Yaodong He's Home Page</title>
 </head>
 <body>
-<img src="https://github.com/hyd123/Homepage/blob/master/webwxgetmsgimg.jpg">
+<img src="https://github.com/hyd123/Homepage/blob/master/webwxgetmsgimg.jpg" alt="Pulpit rock" width="304" height="228">
 <p>
         <font size="6" face="Georgia, serif">Yaodong (Donn) He</font><br>
 	<font size="4" face="Georgia, serif"><b>E-mail:</b><br>yaodonghe2-c@my.cityu.edu.hk</font><br>
