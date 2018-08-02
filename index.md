@@ -1,11 +1,11 @@
 
+![image](https://github.com/hyd123/Homepage/blob/master/webwxgetmsgimg.jpg)
 <html>
 <head>
 <meta charset="utf-8">
 <title>Yaodong He's Home Page</title>
 </head>
 <body>
-![image](https://github.com/hyd123/Homepage/blob/master/webwxgetmsgimg.jpg)
 <p>
         <font size="6" face="Georgia, serif">Yaodong (Donn) He</font><br>
 	<font size="4" face="Georgia, serif"><b>E-mail:</b><br>yaodonghe2-c@my.cityu.edu.hk</font><br>
