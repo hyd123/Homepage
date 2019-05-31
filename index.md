@@ -31,9 +31,7 @@ BS, School of Electronic Engineering, <a href="http://www.uestc.edu.cn/">Univers
 <h4>Publications</h4>
 1. Yaodong He, <a href="http://www.ee.cityu.edu.hk/~syyuen/">Shiu Yin Yuen</a>, and <a href="https://fylou.github.io/">Yang Lou</a>, "A Bayesian Restarting Approach to Algorithm Selection", <a href="https://www.springer.com/gp/book/9783319687582"> In: Simulated Evolution and Learning</a>, (Proc. SEAL 2017), Shenzhen, pp.397–409 (2017).<br>
 2. Yaodong He, <a href="http://www.ee.cityu.edu.hk/~syyuen/">Shiu Yin Yuen</a>, and <a href="https://fylou.github.io/">Yang Lou</a>, "Exploratory Landscape Analysis Using Algorithm Based Sampling", In Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO '18), Kyoto, Japan (2018).<br>
-3. He, Y., Yuen, S. Y., Lou, Y., & Zhang, X. (2019). A sequential algorithm portfolio approach for black box optimization. <a href="https://www.journals.elsevier.com/swarm-and-evolutionary-computation">Swarm and Evolutionary Computation</a>, 44, 559-570.
-4. 
-
+3. Yaodong He, <a href="http://www.ee.cityu.edu.hk/~syyuen/">Shiu Yin Yuen</a>, <a href="https://fylou.github.io/">Yang Lou</a>, and <a href="https://tjnumark.wixsite.com/mark">Xin Zhang</a>. "A sequential algorithm portfolio approach for black box optimization." <a href="https://www.journals.elsevier.com/swarm-and-evolutionary-computation">Swarm and Evolutionary Computation</a> 44 (2019): 559-570.
 <h2>TEACHING</h2>
 Digital Signal Processing, EE4015, teaching assistant, 2016-2017.<br>
 Foundations of Data Engineering, EE3001, teaching assistant, 2016-2017.<br>
