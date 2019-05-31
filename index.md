@@ -33,6 +33,7 @@ BS, School of Electronic Engineering, <a href="http://www.uestc.edu.cn/">Univers
 2. Yaodong He, <a href="http://www.ee.cityu.edu.hk/~syyuen/">Shiu Yin Yuen</a>, and <a href="https://fylou.github.io/">Yang Lou</a>, "Exploratory Landscape Analysis Using Algorithm Based Sampling", In Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO '18), Kyoto, Japan (2018).<br>
 3. Yaodong He, <a href="http://www.ee.cityu.edu.hk/~syyuen/">Shiu Yin Yuen</a>, <a href="https://fylou.github.io/">Yang Lou</a>, and <a href="https://tjnumark.wixsite.com/mark">Xin Zhang</a>. "A sequential algorithm portfolio approach for black box optimization." <a href="https://www.journals.elsevier.com/swarm-and-evolutionary-computation">Swarm and Evolutionary Computation</a> 44 (2019): 559-570.
 <h2>TEACHING</h2>
+4. Yaodong He, Jianfeng Zhou, and <a href="http://www.ee.cityu.edu.hk/~syyuen/">Shiu Yin Yuen</a>, "Composing photomosaic images using clustering based evolutionary programming." accepted by <a href="https://link.springer.com/journal/11042">Swarm and Evolutionary Computation</a>.
 Digital Signal Processing, EE4015, teaching assistant, 2016-2017.<br>
 Foundations of Data Engineering, EE3001, teaching assistant, 2016-2017.<br>
 Data Structures and Algorithms, EE2331, teaching assistant, 2017-2018.<br>
