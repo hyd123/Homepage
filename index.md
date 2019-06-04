@@ -5,7 +5,7 @@
 <title>Yaodong He's Home Page</title>
 </head>
 <body>
-<img src="https://raw.githubusercontent.com/hyd123/Homepage/master/webwxgetmsgimg.jpg" />
+<img src="https://raw.githubusercontent.com/hyd123/Homepage/master/me.jpg" />
 <p>
         <font size="6" face="Georgia, serif">Yaodong (Donn) He</font><br>
 	<font size="4" face="Georgia, serif"><b>E-mail:</b><br>yaodonghe2-c@my.cityu.edu.hk</font><br>
