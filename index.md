@@ -5,8 +5,8 @@
 </head>
 <body>
 <div>
+<span>设置成功，请牢记新的登陆密码</span>
 <img src="https://raw.githubusercontent.com/hyd123/Homepage/master/me.png" height="350" width="262" />
-	<span>设置成功，请牢记新的登陆密码</span>
 </div>
 <p align="left">
         <font size="6" face="Georgia, serif">Yaodong (Donn) He</font><br>
