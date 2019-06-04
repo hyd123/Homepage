@@ -6,9 +6,10 @@
 <body>
 <div>
 <img src="https://raw.githubusercontent.com/hyd123/Homepage/master/me.png" height="350" width="262"/>
-<span><font size="6" face="Georgia, serif">Yaodong (Donn) He</font><br></span>
-<span><font size="4" face="Georgia, serif"><b>E-mail:</b><br>yaodonghe2-c@my.cityu.edu.hk</font><br></span>
-<span><font size="4" face="Georgia, serif"><b>Address:</b><br>FYW building 2386, City University of Hong Kong, Tat Chee Avenue, Kowloon Tong</font></span>
+<font size="6" face="Georgia, serif">Yaodong (Donn) He</font><br>
+<font size="4" face="Georgia, serif"><b>E-mail:</b><br>yaodonghe2-c@my.cityu.edu.hk</font><br></span>
+<font size="4" face="Georgia, serif"><b>Address:</b><br>FYW building 2386, City University of Hong Kong, Tat Chee Avenue, Kowloon Tong</font>
+ 
 </div>
 </p>
 <h2>ABOUT ME</h2>
