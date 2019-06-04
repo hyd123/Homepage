@@ -4,7 +4,7 @@
 <title>Yaodong He's Home Page</title>
 </head>
 <body>
-<img src="https://raw.githubusercontent.com/hyd123/Homepage/master/me.png" height="200" width="150" />
+<img src="https://raw.githubusercontent.com/hyd123/Homepage/master/me.png" height="250" width="188" />
 <p>
         <font size="6" face="Georgia, serif">Yaodong (Donn) He</font><br>
 	<font size="4" face="Georgia, serif"><b>E-mail:</b><br>yaodonghe2-c@my.cityu.edu.hk</font><br>
@@ -35,7 +35,5 @@ BS, School of Electronic Engineering, <a href="http://www.uestc.edu.cn/">Univers
 
 <h2>TEACHING</h2>
 Digital Signal Processing, EE4015, teaching assistant, 2016-2017.<br>
-Foundations of Data Engineering, EE3001, teaching assistant, 2016-2017.<br>
 Data Structures and Algorithms, EE2331, teaching assistant, 2017-2018.<br>
-Foundations of Data Engineering, EE3001, teaching assistant, 2017-2018.<br>
-
+Foundations of Data Engineering, EE3001, teaching assistant,2016-2017, 2017-2018, 2018-2019.<br>
