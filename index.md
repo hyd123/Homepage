@@ -31,8 +31,12 @@ BS, School of Electronic Engineering, <a href="http://www.uestc.edu.cn/">Univers
 2. Yaodong He, <a href="http://www.ee.cityu.edu.hk/~syyuen/">Shiu Yin Yuen</a>, and <a href="https://fylou.github.io/">Yang Lou</a>, "Exploratory Landscape Analysis Using Algorithm Based Sampling", In Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO '18), Kyoto, Japan (2018).<br>
 3. Yaodong He, <a href="http://www.ee.cityu.edu.hk/~syyuen/">Shiu Yin Yuen</a>, <a href="https://fylou.github.io/">Yang Lou</a>, and <a href="https://tjnumark.wixsite.com/mark">Xin Zhang</a>. "A sequential algorithm portfolio approach for black box optimization." <a href="https://www.journals.elsevier.com/swarm-and-evolutionary-computation">Swarm and Evolutionary Computation</a> 44 (2019): 559-570.<br>
 4. Yaodong He, Jianfeng Zhou, and <a href="http://www.ee.cityu.edu.hk/~syyuen/">Shiu Yin Yuen</a>, "Composing photomosaic images using clustering based evolutionary programming." <a href="https://doi.org/10.1007/s11042-019-07798-5">https://doi.org/10.1007/s11042-019-07798-5</a>, accepted by <a href="https://link.springer.com/journal/11042">Multimedia Tools and Applications</a>.<br>
+5. Yaodong He and <a href="http://www.ee.cityu.edu.hk/~syyuen/">Shiu Yin Yuen</a>, "Black Box Algorithm Selection by Convolutional Neural Network", International Conference on Machine Learning, Optimization, and Data Science. (accepted)
+6. Yang Lou, Yaodong He, Lin Wang, Guanrong Chen “Predicting Network Controllability Robustness: A Convolutional Neural Network Approach”, IEEE Transactions on cybernetics. (Under review)
+7. Yang Lou, Yaodong He, Lin Wang, Kim Fung Tsang, and Guanrong Chen, "Predicting the Robustness of Undirected Network Controllability", In Proceedings of 39th Chinese Control Conference (CCC2020). (accepted).
+8. Zhang Xin, Lou Yang, Yuen Shiu Yin, Wu Zhou, He Yaodong, Zhang Xiu. "Hybrid Artificial Bee Colony with Covariance Matrix Adaptation Evolution Strategy for Economic Load Dispatch." 2019 IEEE Congress on Evolutionary Computation (CEC). IEEE, 2019.
 
 <h2>TEACHING</h2>
 Digital Signal Processing, EE4015, teaching assistant, 2016-2017.<br>
 Data Structures and Algorithms, EE2331, teaching assistant, 2017-2018.<br>
-Foundations of Data Engineering, EE3001, teaching assistant,2016-2017, 2017-2018, 2018-2019.<br>
+Foundations of Data Engineering, EE3001, teaching assistant,2016-2017, 2017-2018, 2018-2019, 2019-2020.<br>
